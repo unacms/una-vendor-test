@@ -1,6 +1,6 @@
 Sample test module
 ==================
-This is simplest module for Dolphin, it can be used as starting point for other modules or just like an example.
+This is simplest module for Dolphin U, it can be used as starting point for other modules or just like an example.
 
 
 Installation

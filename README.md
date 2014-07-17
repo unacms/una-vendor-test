@@ -5,7 +5,7 @@ This is simplest module for Dolphin, it can be used as starting point for other 
 
 Installation
 ============
-1. Copy `test` folder to `modules/vendor` dir
+1. Copy `test` folder to `modules/vendor` dir (create `vendor` dir, if it isn't there)
 2. Go to Dolphin Studio > Extensions > Downloaded > Find 'Test' module and click Install
 
 

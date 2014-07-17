@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources name="en" flag="gb" title="English">
+	<string name="_vnd_test"><![CDATA[Test]]></string>
+	<string name="_vnd_test_adm_stg_cpt_type"><![CDATA[Test]]></string>
+	<string name="_vnd_test_adm_stg_cpt_category_general"><![CDATA[General]]></string>
+	<string name="_vnd_test_option_repeat_times"><![CDATA[Number of times to repeat the phrase]]></string>
+    <string name="_vnd_test_phrase"><![CDATA[Hello World! ]]></string>
+</resources>
+

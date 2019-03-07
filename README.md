@@ -1,6 +1,6 @@
 Sample test module
 ==================
-This is simplest module for Trident, it can be used as starting point for other modules or just like an example.
+This is simplest module for UNA, it can be used as starting point for other modules or just like an example.
 
 
 Installation
@@ -11,5 +11,5 @@ Installation
 
 Extending basic functionality
 =============================
-Please refer to the [wiki page](https://github.com/boonex/trident-vendor-test/wiki) on how to add more features to it.
+Please refer to the [wiki page](https://github.com/unaio/una-vendor-test/wiki) on how to add more features to it.
 

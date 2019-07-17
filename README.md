@@ -6,7 +6,7 @@ This is simplest module for UNA, it can be used as starting point for other modu
 Installation
 ============
 1. Copy `test` folder to `modules/vendor` dir (create `vendor` dir, if it isn't there)
-2. Go to Trident Studio > Apps > Downloaded > Find 'Test' module and click Install
+2. Go to your site Studio (`/studio`) > Apps > Downloaded > Find 'Test' module and click Install
 
 
 Extending basic functionality
